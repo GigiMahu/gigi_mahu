@@ -1,1 +1,2 @@
 Second file on GIT localRepo.
+New line on second file.
